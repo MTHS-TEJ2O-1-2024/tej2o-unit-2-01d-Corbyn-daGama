@@ -2,7 +2,7 @@
  *
  * Created by: Corbyn da Gama
  * Created on: Sep 2024
- * This program says Hello, World
+ * This program says Hello, Corbyn!
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Corbyn!')
